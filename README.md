@@ -1,7 +1,5 @@
-## Introdução
+# extriangle
 
-Seja bem vindo!
-Se você curtiu a extensão, não esqueça de deixar uma avaliação!
+Háromszög területszámítása.
 
-Siga o canal no YouTube:
-- Academia dos Devs
+JavaFX-el megvalósítva.
